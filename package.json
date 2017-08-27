@@ -1,0 +1,31 @@
+{
+  "name": "materialistic.world",
+  "version": "1.0.0",
+  "description": "a blog for documenting my exploration on the android platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennyabrain/materialistic.world.git"
+  },
+  "keywords": [
+    "blog",
+    "android",
+    "creative",
+    "technology",
+    "ux",
+    "design",
+    "software"
+  ],
+  "author": "denny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennyabrain/materialistic.world/issues"
+  },
+  "homepage": "https://github.com/dennyabrain/materialistic.world#readme",
+  "dependencies": {
+    "metalsmith": "^2.3.0"
+  }
+}
