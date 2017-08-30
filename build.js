@@ -13,7 +13,7 @@ metalsmith(__dirname)
     }
   })
   .source('./src')
-  .destination('./public')
+  .destination('../denny_words_public')
   .use(collections({
     articles:{
       pattern : 'articles/**/*.md',
